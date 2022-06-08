@@ -2683,10 +2683,10 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 *What the updated:* _Added ttp command, added Screenshotweb command, added translate command, added webinfo command, added captcha generator, added text to sound command, update apikey_
 *Status:* _https://dark-02.github.io/DarkBotStatus.html_
 *Join:* _https://chat.whatsapp.com/GfDPRMb91AD8UXpD2jbJVD_
-*Who's Updated?:* _MrDark_ _PickFord_
+*Who's Updated?:* _KAYy_&_PickFord_
 ════════════════════
 
-*« E C H O BOT Script Menu »*
+*« TOT-BOT Script Menu »*
 •≽  ${prefix}attp [text]
 •≽  ${prefix}ttp [text]
 •≽  ${prefix}tts [text]
@@ -2977,7 +2977,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                                     id: 'sc'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, 'E C H O BOT~PickFord KAYy', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'TOT-BOT~KAYy', global.thumb, btn)
                      }
             break
             default:
